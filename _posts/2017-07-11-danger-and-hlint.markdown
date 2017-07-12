@@ -2,7 +2,7 @@
 layout: post
 title: Danger and hlint
 modified:
-categories: haskell, ruby
+categories: haskell
 excerpt: Danger is a ruby gem that you can use on your continuous integration process to automate code reviews. We will see how to set it up for Haskell projects.
 tags: [haskell, hlint, danger.systems, danger, ruby, github, pull request, code review, continuous integration, travis, travis-ci]
 date: 2017-07-11T10:50:05+02:00
