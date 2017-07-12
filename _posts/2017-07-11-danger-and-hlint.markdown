@@ -201,9 +201,7 @@ you web browser as suggested on [Danger.systems](http://danger.systems/guides/ge
 Alternatively I have already created [@hlintBot](https://github.com/hlintBot). Feel
 free to use this account in the next steps, the access token to control [@hlintBot](https://github.com/hlintBot) is
 
-```
-f1a287d794429f6ef3eb7bb49b5ffae394d6e5b2
-```
+<script src="https://pastebin.com/embed_js/qHi3REdK"></script>
 
 Once you have an access token, open your project's Travis control panel at
 [travis-ci.org/{you}/{project}/settings](https://travis-ci.org/{you}/{project}/settings).
